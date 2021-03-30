@@ -1,0 +1,240 @@
+body{
+    background-color:#e9eef0;
+    color: black;
+}
+td
+{
+    padding: 0px;
+}
+.header{
+    background-color:#9CADB3;
+    width: 100%;
+    height:22%;
+    float: right;
+    margin-bottom: 5px;
+    background-color: #415A80;
+
+}
+.h1font{
+    text-shadow: 2px 2px 4px white;
+}
+.imagediv{
+    height: 75%;
+    width: 75%;
+    border: thin solid #415A80;;
+    border-radius: 5%;
+    box-shadow: 2px 2px 4px white;
+}
+.inputtext{
+    height: 35px;
+    width: 200px;
+    border: thin solid #415A80;;
+    border-radius: 5%;
+}
+.image1{
+    width: 100%;
+    height: 100vh;
+}
+textarea {
+    width: 100%;
+    height: 100vh;
+  }
+
+.navebar{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 50px;
+    float: left; 
+    border:thin solid #415A80;
+    width: 99%;
+    margin-bottom: 2px;
+}
+h4, h3, h2{
+color: blanchedalmond;
+text-shadow: 2px 2px 4px #000000;
+text-align: center;
+}
+.left{
+    float: left;
+    width: 32.5%;
+    margin-bottom: 2px;
+    font-size: 55px;
+    text-align: center;
+    height: 100%;
+    background-color:#9CADB3;
+  
+  
+}
+.Right{
+    float: right;
+    width: 22%;
+    height: 100%;
+    margin-bottom: 4px;
+    text-align: center;
+    background-color:#9CADB3;
+
+}
+.centerd{
+    float: left;
+    background-color:white;
+    width: 45%;
+    height: 100%;
+    margin-bottom: 2px;
+    margin-left: 2px;
+}
+
+.footer{
+ 
+    clear: both;
+    float: left;
+    width: 100%;
+    margin-top: 100px;
+    margin-bottom: 2px;
+    background-image: url('../images/back.jpg');
+
+}
+
+.circleBase {
+    border-radius: 50%;
+    }
+
+.type1 {
+   
+    width: 40px;
+    height: 40px;
+    border: 2px solid #9CADB3;
+}
+
+.btn {
+  background-color: #ddd;
+  color: black;
+  padding:2.5px 5px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition: 0.3s;
+  float: center;
+}
+
+.btn:hover {
+  background-color: #9CADB3;
+  color: white;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    padding:10px 10px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  
+  .fa-pinterest {
+    background: #cb2027;
+    color: white;
+  }
+  
+  .fa-snapchat-ghost {
+    background: #fffc00;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  }
+  
+  .fa-skype {
+    background: #00aff0;
+    color: white;
+  }
+  
+  .fa-android {
+    background: #a4c639;
+    color: white;
+  }
+  
+  .fa-dribbble {
+    background: #ea4c89;
+    color: white;
+  }
+  
+  .fa-vimeo {
+    background: #45bbff;
+    color: white;
+  }
+  
+  .fa-tumblr {
+    background: #2c4762;
+    color: white;
+  }
+  
+  .fa-vine {
+    background: #00b489;
+    color: white;
+  }
+  
+  .fa-foursquare {
+    background: #45bbff;
+    color: white;
+  }
+  
+  .fa-stumbleupon {
+    background: #eb4924;
+    color: white;
+  }
+  
+  .fa-flickr {
+    background: #f40083;
+    color: white;
+  }
+  
+  .fa-yahoo {
+    background: #430297;
+    color: white;
+  }
+  
+  .fa-soundcloud {
+    background: #ff5500;
+    color: white;
+  }
+  
+  .fa-reddit {
+    background: #ff5700;
+    color: white;
+  }
+  
+  .fa-rss {
+    background: #ff6600;
+    color: white;
+  }
